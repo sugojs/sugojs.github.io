@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# SuGoJS
 
-You can use the [editor on GitHub](https://github.com/sugojs/sugojs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SuGoJS is a highly modular, increidibly leightweight and simple HTTP micro-framework.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## SuGoJS Development Manifest
 
-### Markdown
+SuGoJS follows a set of development standards
+ 
+- Minium dependencies: Given the sheer size of the NPM ecosystem, it is easy to deliver every solution with a third-party module, but many times those same modulos do not fit our needs or maybe you are just bringing a gun to a knife fight. With SuGoJS we aimed to use as less dependencies in the development of each module as possible, forcing us to be better developers and to find solutions by our selfs. We do not believe in "pure minimalism", so we do use third party packages when it is necessary. Also, having a lot of dependencies for your project can make your own project more vulnerable, as it depends on many uncoordinated sources.
+- Simplier is better 
+- Do One Thing, Do It Well: 
+- NodeJS and Express Compatible:
+- More Control, Less Magic: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Inspiration
 
-```markdown
-Syntax highlighted code block
+### [ExpressJS](https://expressjs.com/)
 
-# Header 1
-## Header 2
-### Header 3
+### [KoaJS](https://koajs.com/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sugojs/sugojs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [symfony](https://symfony.com/)
