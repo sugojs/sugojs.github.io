@@ -12,7 +12,7 @@ SuGoJS follows a set of development standards and objectives:
 
 ### Do One Thing, Do It Well
 
-Depelopers tend to think way to big when we are developing a module, package or project. We try to make packages that cover a lot of ground. This
+Depelopers tend to think way to big when we are developing a module, package or project. We try to make packages that cover a lot of ground. This makes it more difficult to test and mantain the package.
 
 ### Simplier is better 
 
