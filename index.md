@@ -34,7 +34,9 @@ SuGoJS does not aim to overthrow the already standard NodeJS frameworks, rather 
 
 Given the sheer size of the NPM ecosystem, it is easy to deliver every solution with a third-party module, but many times those same modulos do not fit our needs or maybe you are just bringing a gun to a knife fight. With SuGoJS we aimed to use as less dependencies in the development of each module as possible, forcing us to be better developers and to find solutions by our selfs. We do not believe in "pure minimalism", so we do use third party packages when it is necessary. Also, having a lot of dependencies for your project can make your own project more vulnerable, as it depends on many uncoordinated sources.
 
+### Typescript
 
+Makes life easier for those who use your modules as most code editors will provide them with intellisense, also prevents errors in development.
 
 ## Inspiration
 
